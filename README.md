@@ -1,5 +1,5 @@
 # cpp-Practical
-CS6101 -- Object Oriented Programming with C++ [Practical]
+CS6101 -- Object Oriented Programming using C++ [Practical]
 
 1) University Management System Using Encapsulation and Constructors/Destructors in C++
 2) Implementation of Runtime Polymorphism Using Virtual Functions and Abstract Classes
